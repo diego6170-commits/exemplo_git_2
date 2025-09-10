@@ -1,1 +1,3 @@
-# exemplo_git_2
+# Trabalhando com o GIT
+- Aplicando códigos iniciais;
+- Utilizando GIT e GitHub;
